@@ -6,7 +6,6 @@
 # if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
-# This script will be executed in late_start service mode
 # 启用 开发者模式
 settings put global development_settings_enabled 1
 # 启用 USB调试
