@@ -1,0 +1,2 @@
+# self_start_wireless_debugging
+这个magisk模块通过service.sh执行一些命令，使得可以直接使用无限调试而不需要手动开启usb调试等繁琐的操作
