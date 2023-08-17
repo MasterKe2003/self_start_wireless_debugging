@@ -1,0 +1,6 @@
+id=开机自启adbd
+name=开机自启adbd
+version=1.0
+versionCode=100
+author=MasterKe
+description=开机自动启动adbd，配合scrcpy等使用
